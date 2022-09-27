@@ -2,7 +2,7 @@
 layout: paper
 title: "Effect of Solvent Removal Rate and Annealing on the Interface Properties in a Blend of a Diketopyrrolopyrrole-Based Polymer with Fullerene"
 year: "2022"
-shortref: "Glauninger <i>et al.</i> 2022"
+shortref: "Sundaram <i>et al.</i>, JCP B (2022)"
 nickname: "solvent-evaporation"
 journal: "J. Phys. Chem. B"
 volume: xx
@@ -34,4 +34,4 @@ tags: [stress granules, biomolecular condensation, condensates, RNA]
 
 # Abstract 
 
-Stress-induced condensation of mRNA and protein into massive cytosolic clusters is conserved across eukaryotes. Known as stress granules when visible by imaging, these structures remarkably have no broadly accepted biological function, mechanism of formation or dispersal, or even molecular composition. As part of a larger surge of interest in biomolecular condensation, studies of stress granules and related RNA/protein condensates have increasingly probed the biochemical underpinnings of condensation. Here, we review open questions and recent advances, including the stages from initial condensate formation to accumulation in mature stress granules, mechanisms by which stress-induced condensates form and dissolve, and surprising twists in understanding the RNA components of stress granules and their role in condensation. We outline grand challenges in understanding stress-induced RNA condensation, centering on the unique and substantial barriers in the molecular study of cellular structures, such as stress granules, for which no biological function has been firmly established.
+We study the effect of solvent-free annealing and explicit solvent evaporation protocols in classical molecular dynamics simulations on the interface properties of a blend of a diketopyrrolopyrrole (DPP) polymer with conjugated substituents (DPP2Py2T) and PCBM[60]. We specifically analyze the intramolecular segmental mobility of the different polymer building blocks as well as intermolecular radial and angular distribution functions between donor and acceptor. The annealing simulations reveal an increase of the glass-transition temperature of 45 K in the polymer-fullerene blend compared to that of pure DPP2Py2T. Our results show that the effective solvent evaporation rates at room temperature only have a minor influence on the segmental mobility and intermolecular orientation, characterized in all cases by a preferential arrangement of PCBM[60] close to the electron-donating substituents in DPP2Py2T. In contrast, solvent-free annealing from a liquid yields clustering of the fullerene close to the electron-withdrawing DPP, generally considered to be detrimental for application in organic solar cells. We find that the difference can be attributed to differences in the behavior of 2-hexyldecyl side-chains, which collapse toward DPP when solvent is explicitly removed, thereby blocking access of PCBM[60].
