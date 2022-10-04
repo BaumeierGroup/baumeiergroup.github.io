@@ -13,7 +13,7 @@ navorder: 2
 {% for member in current_team reversed %}
 	{% assign memberindex = memberindex | plus: 1 %}
 	{% assign colindex = memberindex | modulo: 1 %}
-	{% if colindex == 1 %} <!-- opening of a new row -->
+	{% if colindex == 0 %} <!-- opening of a new row -->
 	<div class="row">
 	{% endif %}
 	<div class="col-md-9 memberbox">
