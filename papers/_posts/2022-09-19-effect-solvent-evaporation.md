@@ -2,12 +2,12 @@
 layout: paper
 title: "Effect of Solvent Removal Rate and Annealing on the Interface Properties in a Blend of a Diketopyrrolopyrrole-Based Polymer with Fullerene"
 year: "2022"
-shortref: "Sundaram <i>et al.</i>, JCP B (2022)"
+shortref: "Sundaram <i>et al.</i>, JPC B (2022)"
 nickname: "solvent-evaporation"
 journal: "J. Phys. Chem. B"
-volume: xx
-issue: xx
-pages: xxxx 
+volume: 126
+issue: 38
+pages: 7445 
 authors: "Vivek Sundaram, Alexey V. Lyulin, Bjoern Baumeier"
 image: /assets/images/papers/solvent-evaporation-thumbnail.svg
 redirect_from: 
@@ -28,7 +28,7 @@ preprint: false
 embargo: false	
 peerreview: true
 review: true
-tags: [stress granules, biomolecular condensation, condensates, RNA]
+tags: [polymers, fullerenes, molecular dynamics]
 ---
 {% include JB/setup %}
 
