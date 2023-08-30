@@ -3,7 +3,7 @@ layout: paper
 title: "Parametrization of Extended Gaussian Disorder Models from Microscopic Charge Transport Simulations"
 year: "2014"
 shortref: "Kordt, Stenzel, Baumeier, Schmidt, Andrienko, JCTC 10, 2508 (2014)"
-nickname: ""
+nickname: "parametrization-extended-gaussian"
 journal: "J. Chem. Theory Comput."
 volume: 10
 issue: 6
