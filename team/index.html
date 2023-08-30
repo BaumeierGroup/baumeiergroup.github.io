@@ -8,7 +8,7 @@ navorder: 2
 {% include JB/setup %}
 
 <div class="bigspacer"></div>
-{% assign current_team = site.categories.team | where: "alum","false"%}
+{% assign current_team = site.categories.team | where: "alum","false"% | where: "position","Associate Professor"%}
 {% assign memberindex = 0 %}
 {% for member in current_team reversed %}
 	{% assign memberindex = memberindex | plus: 1 %}
@@ -35,23 +35,15 @@ navorder: 2
 </div><div class="bigspacer"></div>
 {% endif %}
 
-<div class="bigspacer"></div>
-<hr/>
 
-<!--div class="row">
-	<div class="col-md-12">
-		<img class="team-photo" src="/assets/images/team/drummond-lab-20190920.jpg"/>
-	</div>
-</div-->
 
 <div class="bigspacer"></div>
 <hr/>
-<div class="bigtitle text-center">Alumni</div>
-<div class="bigspacer"></div>
 
-{% assign alumni = site.categories.team | where: "alum","true"%}
+
+{% assign current_team = site.categories.team | where: "alum","false" | where: "position","PhD Candidate"%}
 {% assign memberindex = 0 %}
-{% for member in alumni %}
+{% for member in current_team  %}
 	{% assign memberindex = memberindex | plus: 1 %}
 	{% assign colindex = memberindex | modulo: 3 %}
 	{% if colindex == 1 %} <!-- opening of a new row -->
@@ -75,3 +67,57 @@ navorder: 2
 {% if colindex != 0 %} <!-- close last open row -->
 </div><div class="bigspacer"></div>
 {% endif %}
+
+<!--div class="row">
+	<div class="col-md-12">
+		<img class="team-photo" src="/assets/images/team/drummond-lab-20190920.jpg"/>
+	</div>
+</div-->
+
+<div class="bigspacer"></div>
+<hr/>
+<div class="bigtitle text-center">Alumni</div>
+<div class="bigspacer"></div>
+
+{% assign alumni = site.categories.team | where: "alum","true" | where: "position","PhD"%}
+{% assign memberindex = 0 %}
+{% for member in alumni %}
+	{% assign memberindex = memberindex | plus: 1 %}
+	{% assign colindex = memberindex | modulo: 3 %}
+	{% if colindex == 1 %} <!-- opening of a new row -->
+	<div class="row">
+	{% endif %}
+	<div class="col-md-4 memberbox">
+		<div class="media">
+				<a class="pull-left" href="{{ member.url }}">
+				<img class="media-object member-photo" src="{{ member.image }}">
+				</a>
+			 	<div class="media-body">
+				<div class="head media-heading member-name"><a href="{{ member.url }}" class="off">{{ member.title }}</a></div>
+				<p class="note">{{ member.position }}</p>
+				<p class="note">{{ member.thesis }}</p>
+				</div>
+		</div>
+    </div>	  
+	{% if colindex == 0 %} <!-- closing a row -->
+	</div><div class="bigspacer"></div>
+	{% endif %}
+{% endfor %}
+{% if colindex != 0 %} <!-- close last open row -->
+</div><div class="bigspacer"></div>
+{% endif %}
+<div class="bigspacer"></div>
+
+<h3>Master Students</h3>
+<ul>
+	<li><b>Finn Sherry</b>, "Self-healing of comb polymer vitrimers" (2023)</li>
+</ul>
+
+
+<h3>Bachelor Students</h3>
+<ul>
+	<li><b>Marijn Koot</b>, "Numerical optimization methods applied to molecular geometries" (2023)</li>
+	<li><b>Nakshatra Rishi</b>, "Metadynamics: Exploring Potential Energy Landscapes through Langevin Dynamics with the Milstein Scheme" (2023)</li>
+	<li><b>Anne-Wil van den Heuvel</b>, "Automated methods for multiscale modeling" (2023)</li>
+</ul>
+

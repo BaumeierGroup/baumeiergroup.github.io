@@ -2,7 +2,7 @@
 layout: paper
 title: "Microscopic Simulations of Charge Transport in Disordered Organic Semiconductors"
 year: "2011"
-shortref: "Rühle, JCTC 7, 3335 (2011)"
+shortref: "Rühle et al., JCTC 7, 3335 (2011)"
 nickname: "microscopic-simulations"
 journal: "J. Chem. Theory Comput."
 volume: 7
