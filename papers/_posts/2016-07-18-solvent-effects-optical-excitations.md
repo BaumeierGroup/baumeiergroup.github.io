@@ -6,7 +6,7 @@ shortref: "Bagheri, Karttunen, Baumeier, EPJST 225, 1743 (2016)"
 nickname: "solvent-effects-optical-excitations"
 journal: "Eur. Phys. J. Special Topics"
 volume: 225
-issue: -
+issue: 
 pages: 1743 
 authors: "Behnaz Bagheri, Mikko Karttunen, Björn Baumeier"
 image: /assets/images/papers/bagheri-solvent-effects-optical-excitations.svg
