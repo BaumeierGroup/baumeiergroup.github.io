@@ -25,7 +25,7 @@ author :
   name : B. Baumeier
   email : b.baumeier@tue.nl
   github : baumeier
-  twitter : treeeggs
+#  twitter : treeeggs
 #  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
