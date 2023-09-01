@@ -8,7 +8,7 @@ journal: "J. Chem. Theory Comput."
 volume: 15
 issue: 3
 pages: 1777 
-authors: "Onur Çaylak, Anil Yaman*, and Björn Baumeier"
+authors: "Onur Caylak, Anil Yaman*, and Björn Baumeier"
 image: /assets/images/papers/caylak-evolutionary-approach.svg
 redirect_from: 
 fulltext: https://pubs.acs.org/doi/full/10.1021/acs.jctc.8b01285
