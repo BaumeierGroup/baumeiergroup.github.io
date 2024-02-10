@@ -11,6 +11,8 @@ scholar: -qMmbzsoAAAAJ
 image: /assets/images/team/v-sundaram-2022.jpg
 #cv: /assets/pdfs/drummond-cv.pdf
 alum: false
+thesis: Excitons in Polymer-Fullerene Morphologies - Multiscale Modeling, Implementation and Application
+thesis-pdf: /assets/pdfs/v-sundaram-phd.pdf
 ---
 I was born and completed all my prior education in India. I have done my B.Tech (2017) and M.Tech (2018) in a joint dual-degree program in the discipline of Materials Science and Engineering from the Indian Institute of Technology, Kanpur. I joined TU Eindhoven as a Ph.D. in August 2018.
 
