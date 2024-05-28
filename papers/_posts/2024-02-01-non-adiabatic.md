@@ -1,23 +1,23 @@
 ---
 layout: paper
-title: "Non-adiabatic couplings and conversion dynamics between localized and charge transfer excitations from Many-Body Green's Functions Theory"
+title: "Electronic couplings and conversion dynamics between localized and charge transfer excitations from Many-Body Green's Functions Theory"
 year: "2024"
-shortref: "Tirimbo and Baumeier, ChemRxiv (2024)"
+shortref: "Tirimbo and Baumeier, JCTC (2024)"
 nickname: "non-adiabatic"
-journal: "ChemRxiv"
+journal: "Journal of Chemical Theory and Computation"
 volume: 
 issue: 
 pages:  
 authors: "Gianluca Tirimbo, Bjoern Baumeier"
 image: /assets/images/papers/non-adiabatic.svg
 redirect_from: 
-fulltext: https://chemrxiv.org/engage/chemrxiv/article-details/65bb595366c1381729b8b650
+fulltext: https://pubs.acs.org/doi/10.1021/acs.jctc.4c00142
 pdflink: /assets/pdfs/tirimbo-non-adiabatic-2024.pdf
 github: 
 pmid: 
 pmcid: 
 f1000: 
-doi: "10.26434/chemrxiv-2023-19ggm-v2"
+doi: "10.1021/acs.jctc.4c00142"
 dryad_doi: 
 figshare_doi: 
 altmetric_id: 
