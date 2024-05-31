@@ -1,7 +1,7 @@
 ---
 layout: member
 title: "Vivek Sundaram"
-position: PhD Candidate
+position: PhD
 nickname: Vivek
 handle: sundaram
 email: v.sundaram@tue.nl
@@ -10,7 +10,7 @@ github: sundaramvivek10
 scholar: -qMmbzsoAAAAJ
 image: /assets/images/team/v-sundaram-2022.jpg
 #cv: /assets/pdfs/drummond-cv.pdf
-alum: false
+alum: true
 thesis: Excitons in Polymer-Fullerene Morphologies - Multiscale Modeling, Implementation and Application
 thesis-pdf: /assets/pdfs/v-sundaram-phd.pdf
 ---
