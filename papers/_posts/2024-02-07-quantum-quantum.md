@@ -2,22 +2,22 @@
 layout: paper
 title: "Quantum-quantum and quantum-quantum-classical schemes with projection-based-embedded GW-Bethe--Salpeter Equation"
 year: "2024"
-shortref: "Sundaram and Baumeier, ChemRxiv (2024)"
+shortref: "Sundaram and Baumeier, JCTC (2024)"
 nickname: "quantum-quantum"
-journal: "ChemRxiv"
-volume: 
+journal: "Journal of Chemical Theory and Computation"
+volume: 20
 issue: 
-pages:  
+pages:  5451
 authors: "Vivek Sundaram, Bjoern Baumeier"
 image: /assets/images/papers/quantum-quantum.svg
 redirect_from: 
-fulltext: https://chemrxiv.org/engage/chemrxiv/article-details/65c216ff66c138172912648f
+fulltext: https://pubs.acs.org/doi/full/10.1021/acs.jctc.4c00163
 pdflink: /assets/pdfs/sundaram-quantum-quantum-2024.pdf
 github: 
 pmid: 
 pmcid: 
 f1000: 
-doi: "10.26434/chemrxiv-2024-wp120"
+doi: "10.1021/acs.jctc.4c00163"
 dryad_doi: 
 figshare_doi: 
 altmetric_id: 
