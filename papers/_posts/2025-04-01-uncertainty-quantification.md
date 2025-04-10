@@ -12,7 +12,7 @@ authors: "Zhongquan Chen, Pim van der Hoorn, Bjoern Baumeier"
 image: /assets/images/papers/uncertainty-quantification.svg
 redirect_from: 
 fulltext: https://arxiv.org/abs/2503.22356
-pdflink: /assets/pdfs/chen-unertainty-quantification-2025.pdf
+pdflink: /assets/pdfs/chen-uncertainty-quantification-2025.pdf
 github: 
 pmid: 
 pmcid: 
