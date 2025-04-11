@@ -38,7 +38,9 @@ navorder: 2
 
 
 <div class="bigspacer"></div>
-{% assign current_team = site.categories.team | where: "alum","false"% | where: "position","University Teacher" or "position","Assistant Profesor"%}
+{% assign current_team_doc = site.categories.team | where: "alum","false"% | where: "position","University Teacher"%}
+{% assign current_team_AP = site.categories.team | where: "alum","false"% | where: "position","Assistant Professor"%}
+{% assign current_team = current_team_doc |  concat: current_team_AP %}
 {% assign memberindex = 0 %}
 {% for member in current_team reversed %}
 	{% assign memberindex = memberindex | plus: 1 %}
