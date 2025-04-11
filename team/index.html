@@ -35,7 +35,7 @@ navorder: 2
 </div><div class="bigspacer"></div>
 {% endif %}
 
-
+<hr/>
 
 <div class="bigspacer"></div>
 {% assign current_team_doc = site.categories.team | where: "alum","false"% | where: "position","University Teacher"%}
@@ -44,8 +44,8 @@ navorder: 2
 {% assign memberindex = 0 %}
 {% for member in current_team reversed %}
 	{% assign memberindex = memberindex | plus: 1 %}
-	{% assign colindex = memberindex | modulo: 1 %}
-	{% if colindex == 0 %} <!-- opening of a new row -->
+	{% assign colindex = memberindex | modulo: 2 %}
+	{% if colindex == 1 %} <!-- opening of a new row -->
 	<div class="row">
 	{% endif %}
 	<div class="col-md-9 memberbox">
