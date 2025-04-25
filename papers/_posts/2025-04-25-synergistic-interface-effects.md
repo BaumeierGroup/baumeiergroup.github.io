@@ -2,16 +2,16 @@
 layout: paper
 title: "Synergistic Interface Effects in Composite Dielectrics: Insights into Charge Trapping Regulation through Multiscale Modeling"
 year: "2024"
-shortref: "Zhao et al., arXiv (2024)"
+shortref: "Zhao et al., JCPB (2025)"
 nickname: "synergistic-interface-effects"
-journal: "arXiv"
+journal: "Journal of Physical Chemistry B"
 volume: 
 issue: 
 pages:  
 authors: "Haoxiang Zhao, Lixuan An, Daning Zhang, Xiong Yang, Huanmin Yao, Guanjun Zhang, Haibao Mu, Björn Baumeier"
 image: /assets/images/papers/synergistic-interface-effects.svg
 redirect_from: 
-fulltext: https://arxiv.org/abs/2411.01541
+fulltext: https://pubs.acs.org/doi/10.1021/acs.jpcb.4c08661
 pdflink: /assets/pdfs/zhao-synergistic-interface-effects-2024.pdf
 github: 
 pmid: 
