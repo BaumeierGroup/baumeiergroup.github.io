@@ -5,9 +5,9 @@ year: "2024"
 shortref: "Zhao et al., JCPB (2025)"
 nickname: "synergistic-interface-effects"
 journal: "Journal of Physical Chemistry B"
-volume: 
-issue: 
-pages:  
+volume: 129
+issue: 17
+pages:  4216
 authors: "Haoxiang Zhao, Lixuan An, Daning Zhang, Xiong Yang, Huanmin Yao, Guanjun Zhang, Haibao Mu, Björn Baumeier"
 image: /assets/images/papers/synergistic-interface-effects.svg
 redirect_from: 
