@@ -2,7 +2,7 @@
 layout: paper
 title: "Automatic identification of traps in molecular charge transport networks of organic semiconductors"
 year: "2025"
-shortref: "Chen, van der Hoorn, Baumeier, arXiv (2024)"
+shortref: "Chen, van der Hoorn, Baumeier, Phys. Rev. B (2025)"
 nickname: "trap-identification"
 journal: "Phys. Rev. B"
 volume: 111
