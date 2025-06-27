@@ -1,23 +1,23 @@
 ---
 layout: paper
-title: "Trap Identification in Molecular Charge Transport Networks"
-year: "2024"
+title: "Automatic identification of traps in molecular charge transport networks of organic semiconductors"
+year: "2025"
 shortref: "Chen, van der Hoorn, Baumeier, arXiv (2024)"
 nickname: "trap-identification"
-journal: "arXiv"
-volume: 
+journal: "Phys. Rev. B"
+volume: 111
 issue: 
-pages:  
+pages:  224209
 authors: "Zhongquan Chen, Pim van der Hoorn, Bjoern Baumeier"
 image: /assets/images/papers/trap-identification.svg
 redirect_from: 
-fulltext: https://arxiv.org/abs/2411.07136
+fulltext: https://journals.aps.org/prb/abstract/10.1103/shyl-kcfp
 pdflink: /assets/pdfs/chen-trap-identification-2024.pdf
 github: 
 pmid: 
 pmcid: 
 f1000: 
-doi: 
+doi: 10.1103/shyl-kcfp
 dryad_doi: 
 figshare_doi: 
 altmetric_id: 
