@@ -2,16 +2,16 @@
 layout: paper
 title: "Uncertainty Quantification in Multiscale Models of Charge Transport in Organic Semiconductors: Influence of the Exhange-Correlation Functional"
 year: "2025"
-shortref: "Chen, van der Hoorn, Baumeier, arXiv (2025)"
+shortref: "Chen, van der Hoorn, Baumeier, Phys. Rev. B (2025)"
 nickname: "trap-identification"
-journal: "arXiv"
-volume: 
+journal: "Phys. Rev. B"
+volume: 112
 issue: 
-pages:  
+pages:  024202
 authors: "Zhongquan Chen, Pim van der Hoorn, Bjoern Baumeier"
 image: /assets/images/papers/uncertainty-quantification.svg
 redirect_from: 
-fulltext: https://arxiv.org/abs/2503.22356
+fulltext: https://journals.aps.org/prb/abstract/10.1103/2zz2-jchv
 pdflink: /assets/pdfs/chen-uncertainty-quantification-2025.pdf
 github: 
 pmid: 
