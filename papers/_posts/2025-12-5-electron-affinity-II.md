@@ -2,7 +2,7 @@
 layout: paper
 title: "Electron affinity and binding energy of excitons in disordered organic semiconductors. II. First principles simulations and inverse photoemission studies for MADN"
 year: "2025"
-shortref: "Tirimbo et al. (2025)"
+shortref: "Tirimbo et al. Phys. Rev. B (2025)"
 nickname: "electron-affinity-II"
 journal: Phys. Rev. B
 volume: 112
@@ -12,7 +12,7 @@ authors: "Gianluca Tirimbo, O. Nagaoka, S. Fukushima, Clint van Hoesel, Hiroyuki
 image: /assets/images/papers/tirimbo-electron-affinity-2025.svg
 redirect_from: 
 fulltext: https://journals.aps.org/prb/abstract/10.1103/6gh2-8lb8
-pdflink: /assets/pdfs/tirimbi-electron-affinity.pdf
+pdflink: /assets/pdfs/tirimbo-electron-affinity.pdf
 github: 
 pmid: 
 pmcid: 

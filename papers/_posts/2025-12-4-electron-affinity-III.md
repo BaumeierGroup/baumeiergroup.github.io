@@ -2,7 +2,7 @@
 layout: paper
 title: "Electron affinity and binding energy of excitons in disordered organic semiconductors. III. Multimethod study for films of the blue fluorescent emitter MADN"
 year: "2025"
-shortref: "de Jong et al.(2025)"
+shortref: "de Jong et al. Phys. Rev. B (2025)"
 nickname: "electron-affinity-III"
 journal: Phys. Rev. B
 volume: 112
