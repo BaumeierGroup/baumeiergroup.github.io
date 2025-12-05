@@ -4,20 +4,20 @@ title: "Electron affinity and binding energy of excitons in disordered organic s
 year: "2025"
 shortref: "Tirimbo et al. (2025)"
 nickname: "electron-affinity-II"
-journal: 
-volume: 
+journal: Phys. Rev. B
+volume: 112
 issue: 
-pages:  
+pages:  224203
 authors: "Gianluca Tirimbo, O. Nagaoka, S. Fukushima, Clint van Hoesel, Hiroyuki Yoshida, Reinder Coehoorn, and Bjoern Baumeier"
-image: /assets/images/papers/electron-affinity-II-2025.svg
+image: /assets/images/papers/tirimbo-electron-affinity-2025.svg
 redirect_from: 
-fulltext: 
-pdflink: 
+fulltext: https://journals.aps.org/prb/abstract/10.1103/6gh2-8lb8
+pdflink: /assets/pdfs/tirimbi-electron-affinity.pdf
 github: 
 pmid: 
 pmcid: 
 f1000: 
-doi: 
+doi: 10.1103/6gh2-8lb8
 dryad_doi: 
 figshare_doi: 
 altmetric_id: 
